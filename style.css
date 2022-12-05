@@ -1,0 +1,139 @@
+header{
+    background: rgb(8, 8, 8);
+        background: linear-gradient(90deg, rgb(129, 136, 136) 0%, rgb(16, 15, 15) 100%);
+    padding: 3%;
+}
+h1{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center;
+color: aliceblue;
+}
+.p1{
+    font-size: 16px; line-height: 10px;
+}
+.p2{font-size: 16px; line-height: 10px;}
+.p3{font-size: 16px; line-height: 10px;}
+.p4{font-size: 16px; line-height: 10px;}
+.p5{font-size: 16px; line-height: 10px;}
+.p6{font-size: 16px; line-height: 10px;}
+.p7{font-size: 16px; line-height: 10px;}
+.p8{font-size: 16px; line-height: 10px;}
+.p9{font-size: 16px; line-height: 10px;}
+.p10{font-size: 16px; line-height: 10px;}
+.p11{font-size: 16px; line-height: 10px;}
+.p12{font-size: 16px; line-height: 10px;}
+.p13{font-size: 16px; line-height: 10px;}
+.p14{font-size: 16px; line-height: 10px;}
+.p15{font-size: 16px; line-height: 10px;}
+main{
+    background-color: rgb(122, 133, 133);
+    height: 1450px;
+    width: 1400;
+
+}
+body{
+        background: rgb(8, 8, 8);
+        background: linear-gradient(90deg, rgb(14, 14, 14) 0%, rgb(175, 168, 168) 100%);
+    padding: 3%;
+}
+img.gambar{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    text-align: center;
+}
+aside{
+    height: 1430px;
+     float: right;
+     background: rgb(247, 240, 240);
+        background: linear-gradient(90deg, rgba(79, 71, 71, 0.803) 0%, rgb(20, 20, 20) 100%);
+     padding:10px;
+
+}
+p{
+    text-align: center;
+}
+img.bojongkokosan{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer{
+    text-align: center;
+    padding: 18px;
+    background-color: rgb(54, 53, 53);
+    color: white;
+}
+img.akmal{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+width: 300px;
+}
+.oke{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: aliceblue;
+}
+.oke2{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: aliceblue;
+}
+.oke3{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: aliceblue;
+}
+.oke4{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: aliceblue;
+}
+.oke5{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: aliceblue;
+}
+.perang{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+width: 300px;
+}
+.perang2{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: aliceblue;
+
+}
+.perang3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+width: 300px;
+}
+.perang4{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: aliceblue;
+}
+.ugh{
+    display: block;
+    height: 200px;
+    width: 300px;
+}
+.jem{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: aliceblue;
+}
+.bom{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+width: 300px;
+}
+a{text-decoration: none; font-size: 20px;font-family: sans-serif;padding: 14px 10px}
+ul{padding: 14px}
+li{list-style: none; display: inline;}
+li a{background: #222; color:#d4d4d4;}
+li a:hover{background: #fb071f; color:#fff;}
+.navi{background: #222; height: 50px}
